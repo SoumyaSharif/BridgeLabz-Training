@@ -14,6 +14,6 @@ public class IntOperation {
     int operation4 =  a % b + c ;
         
     //Display the result
-    System.out.print("The results of Int Operations are  " + operation1 + " " + operation 2 + " " + operation3 + "and " + operation4  );
+    System.out.print("The results of Int Operations are  " + operation1 + "  , " + operation2 + " , " + operation3 + " and " + operation4);
     }
 }
