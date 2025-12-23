@@ -1,0 +1,25 @@
+import java.util.*;
+
+public class Length{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+
+        System.out.println("Length using the length() and built-in length " + Check(s) + " and " + s.length());
+
+
+    }
+
+    public static int Check(String s ){
+        int count = 0;
+        try {
+            while(true){
+                s.charAt(count);
+                count++ ;
+            }
+        }  
+        catch(StringIndexOutOfBoundsException e){  
+        }     
+        return count ; 
+    }
+}
