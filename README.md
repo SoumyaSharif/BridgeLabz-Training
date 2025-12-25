@@ -29,7 +29,7 @@
 - Practiced add → commit → push cycle  
 
 🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs](./gcr-Codebase/program-prerequisites)
+👉 [Day 2 – Basic Java Programs](./gcr-Codebase/program-prerequisite)
 
 ---
 
