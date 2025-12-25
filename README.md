@@ -29,7 +29,7 @@
 - Practiced add → commit → push cycle  
 
 🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs](./gcr-codebase/program-prerequisites)
+👉 [Day 2 – Basic Java Programs](./gcr-Codebase/program-prerequisites)
 
 ---
 
@@ -42,7 +42,7 @@
 - User Input and Output  
 
 🔗 **Code Link:**  
-👉 [Day 3 – Programming Elements](./gcr-codebase/programming-elements)
+👉 [Day 3 – Programming Elements](./gcr-Codebase/programming-elements)
 
 ---
 
@@ -61,7 +61,7 @@
 - Prime number check  
 
 🔗 **Code Link:**  
-👉 [Day 4 – Control Flow](./gcr-codebase/control-flows)
+👉 [Day 4 – Control Flow](./gcr-Codebase/control-flows)
 
 ---
 
@@ -77,7 +77,7 @@ Finding missing elements
 
 
 🔗 **Code Link:**  
-👉 [Day 5 – Arrays](./gcr-codebase/arrays)
+👉 [Day 5 – Arrays](./gcr-Codebase/arrays)
 
 ---
 
@@ -91,7 +91,7 @@ Finding missing elements
 - Practiced reuseable logic using methods
 
 🔗 **Code Link:**  
-👉 [Day 6 – Problems on Methods](./gcr-codebase/Methods)
+👉 [Day 6 – Problems on Methods](./gcr-Codebase/Methods)
 
 ---
 
@@ -114,7 +114,7 @@ Finding missing elements
   - Level2 Solve random values generated problems
 
 🔗 **Code Link:**  
-👉 [Day 1 – String Problems](./gcr-codebase/Java-Strings)
+👉 [Day 1 – String Problems](./gcr-Codebase/Java-Strings)
 
 ---
 
@@ -129,7 +129,7 @@ Finding missing elements
   - `LocalTime.now()`
 
 🔗 **Code Links:**  
-👉 [String Extras Solved](./gcr-codebase/Extras)  
+👉 [String Extras Solved](./gcr-Codebase/Extras)  
 
 --- 
 
