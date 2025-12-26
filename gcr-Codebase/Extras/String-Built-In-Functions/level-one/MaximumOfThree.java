@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class MaximumOfThree {
+
+    static int findMax(int a, int b, int c) {
+        return Math.max(a, Math.max(b, c));
+    }
+
+    static int getInput(Scanner sc) {
+        return sc.nextInt();
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter first number: ");
+        int a = getInput(sc);
+
+        System.out.print("Enter second number: ");
+        int b = getInput(sc);
+
+        System.out.print("Enter third number: ");
+        int c = getInput(sc);
+
+        int max = findMax(a, b, c);
+        System.out.println("Maximum number is: " + max);
+    }
+}
