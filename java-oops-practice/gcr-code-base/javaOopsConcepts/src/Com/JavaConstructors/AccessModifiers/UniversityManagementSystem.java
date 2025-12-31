@@ -1,4 +1,4 @@
-package javaConstructors.accessmodifier;
+package Com.JavaConstructors.AccessModifiers;
 
 public class UniversityManagementSystem {
 
