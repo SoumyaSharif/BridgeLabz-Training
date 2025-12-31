@@ -1,4 +1,4 @@
-package inbuiltfunction;
+package Com.InbuiltFunctions;
 
 public class Company {
 	   // Static variable shared by all employees
