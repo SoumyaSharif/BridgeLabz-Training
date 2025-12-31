@@ -1,4 +1,4 @@
-package javaConstructors.Instances;
+package Com.JavaConstructors.Instances;
 
 public class Course {
 	
