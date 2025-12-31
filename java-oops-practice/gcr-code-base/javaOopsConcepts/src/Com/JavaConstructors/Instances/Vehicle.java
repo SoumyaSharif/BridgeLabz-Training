@@ -1,4 +1,4 @@
-package javaConstructors.Instances;
+package Com.JavaConstructors.Instances;
 
 public class Vehicle {
 	
@@ -10,7 +10,7 @@ public class Vehicle {
 	public Vehicle(String ownerName , String vehicleType, double registrationFee) {
 		this.ownerName = ownerName ;
 		this.vehicleType = vehicleType;
-		this.registrationFee = registrationFee;
+		Vehicle.registrationFee = registrationFee;
 	}
 	
 	public void displayvehicleDetails() {
