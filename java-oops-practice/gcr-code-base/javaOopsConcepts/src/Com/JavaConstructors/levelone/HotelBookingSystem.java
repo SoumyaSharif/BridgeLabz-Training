@@ -1,4 +1,4 @@
-package javaConstructors;
+package Com.JavaConstructors.levelone;
 
 public class HotelBookingSystem {
 
