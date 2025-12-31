@@ -1,4 +1,4 @@
-package inbuiltfunction;
+package Com.InbuiltFunctions;
 
 public class Patient {
 	   // Static variable shared among all patients
