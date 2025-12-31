@@ -1,4 +1,4 @@
-package inbuiltfunction;
+package Com.InbuiltFunctions;
 
 public class BankAccount {
 	  
