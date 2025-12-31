@@ -1,4 +1,4 @@
-package inbuiltfunction;
+package Com.InbuiltFunctions;
 
 public class Vehicle {
 	   // Static variable shared by all vehicles
