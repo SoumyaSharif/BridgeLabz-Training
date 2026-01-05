@@ -2,8 +2,6 @@ package Com.objectmodelling.libraryandbook;
 
 import java.util.ArrayList;
 
-import java.util.ArrayList;
-
 class library {
     String libraryName;
     ArrayList<book> books;
