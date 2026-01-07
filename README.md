@@ -74,3 +74,41 @@
 
 ---
 
+## 🗓️ Day 3 – Inheritance in Java
+
+### 📌 Topics Covered
+- Inheritance
+- Single Level Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+
+### 🛠️ Practical Implementation
+- Implemented multiple inheritance structures using real-world examples.
+- Used `@Override` annotation to override parent class methods.
+- Applied `super` keyword to access parent class constructors and methods.
+
+---
+
+## 🗓️ Day 4 – Encapsulation, Polymorphism, Interfaces & Abstract Classes  
+📅 *Date: 1st January*
+
+### 📌 Topics Covered
+- Encapsulation
+- Polymorphism (Compile-time & Runtime)
+- Interfaces
+- Abstract Classes
+
+### 🛠️ Practical Implementation
+- Designed encapsulated classes with private fields and controlled access.
+- Implemented interfaces using `implements` keyword.
+- Created abstract classes and extended them in child classes.
+- Demonstrated runtime polymorphism using parent class references.
+
+---
+
+
