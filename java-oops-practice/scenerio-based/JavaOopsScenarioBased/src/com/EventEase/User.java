@@ -1,0 +1,12 @@
+package com.EventEase;
+
+class User {
+    private String name;
+    private String email; // sensitive data protected
+
+    public User(String name, String email) {
+        this.name = name;
+        this.email = email;
+    }
+}
+
