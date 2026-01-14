@@ -1,0 +1,45 @@
+package com.BookShelf;
+import java.util.Objects;
+
+public class Book {
+    private String title;
+    private String author;
+    private String genre;
+
+    public Book(String title, String author, String genre) {
+        this.title = title;
+        this.author = author;
+        this.genre = genre;
+    }
+
+    public String getGenre() {
+        return genre;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    // Used by HashSet to avoid duplicates
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Book)) return false;
+        Book book = (Book) o;
+        return title.equals(book.title) && author.equals(book.author);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(title, author);
+    }
+
+    @Override
+    public String toString() {
+        return title + " by " + author;
+    }
+}
