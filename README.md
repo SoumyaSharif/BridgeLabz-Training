@@ -133,4 +133,109 @@ Finding missing elements
 
 --- 
 
+## 📅 Day 3 – LeetCode Practice & Scenario Based Questions (SBQ)  
+**Date:** 24-Dec-2025  
+
+### ✅ LeetCode Problems Solved:
+- Two Sum  
+- First Palindromic String in Array  
+- Number of Employees Who Met the Target  
+- Minimum Number Game  
+- Difference Between Element & Digit Sum  
+- Sum Multiples  
+- Type of Triangle  
+ 
+---
+
+### 🔗 Scenario Based Questions (SBQ):
+👉 24 Dec SBQ  
+
+---
+
+## 📅 Day 4 – Scenario Based Questions  
+**Date:** 26-Dec-2025  
+
+Continued working on **advanced scenario-based Core Java problems**, focusing on applying fundamentals in real-world logic.
+
+### Concepts Applied:
+- Scanner input handling  
+- Variables & primitive data types  
+- Decision making:
+  - if-else  
+  - switch  
+- Loops:
+  - for  
+  - while  
+  - do-while  
+- Ternary operator usage  
+- break & continue control flow  
+- Clean-code formatting, proper indentation & meaningful comments  
+
+---
+
+## 📅 Day 5 – LeetCode Practice  
+**Date:** 27-Dec-2025  
+
+### ✅ LeetCode Problems Solved:
+- Missing Number  
+- Rotate Array  
+- Find If Array Can Be Sorted  
+- Move Zeroes  
+- Remove Duplicates in Sorted Array  
+
+---
+
+## 📚 Week 3 – Scenario Based Problems (SBQ)
+
+### 📅 Day 1 – Scenario Based Questions  
+**Date:** 29-Dec-2025  
+
+---
+
+### 🚗 Parking Lot Gate System
+- Developed a smart parking system  
+- Menu options:
+  - Park  
+  - Exit  
+  - Show Occupancy  
+- Used `switch-case` for menu handling  
+- Used `while` loop to keep system running  
+
+---
+
+### 🎯 Number Guessing Game
+- Player guesses a number between 1 and 100  
+- Implemented using `do-while` loop  
+- Shows hints:
+  - Too High  
+  - Too Low  
+- Game ends after 5 wrong attempts  
+
+---
+
+### 🛒 Shopkeeper’s Discount Dashboard
+- Item prices taken using `for` loop  
+- Total bill calculated  
+- Discount applied using `if-else`  
+- Followed clean coding standards  
+
+---
+
+### 🚌 School Bus Attendance System
+- Attendance tracking for 10 students  
+- Used `for-each` loop for student names  
+- Input: Present / Absent  
+- Displayed total present & absent count  
+
+---
+
+### 📱 Phone Recharge Simulator
+- Takes mobile operator and recharge amount  
+- Uses `switch-case` for operator offers  
+- Loop allows multiple recharges  
+- Displays updated balance  
+
+---
+
+
 
