@@ -111,4 +111,124 @@
 
 ---
 
+# Java OOPS Practice – Scenario Based Questions (SBQ)
+
+This repository contains **scenario-based Java OOPS practice problems**, solved day-wise as part of structured learning and hands-on implementation.  
+Each scenario focuses on **real-world problem modeling using Object-Oriented Programming concepts**.
+
+---
+
+## 📌 Core OOPS Concepts Covered
+- Classes & Objects  
+- Encapsulation  
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Interfaces  
+- Access Modifiers  
+- Constructors  
+- Method Overriding  
+- Scenario-driven design  
+
+---
+
+## 📅 Day 5 – Scenario Based Questions (SBQ) on OOPS 1  
+**Date:** 02-Jan-2026  
+
+### Problems Solved:
+- Hospital Patient Management System  
+- E-Wallet  
+- Smart Home  
+- University Management System  
+- Vehicle Rental Application  
+
+---
+
+## 📅 Day 6 – Scenario Based Questions (SBQ) on OOPS 2  
+**Date:** 03-Jan-2026  
+
+### Problems Solved:
+- Cabby Go  
+- My Bank  
+
+---
+
+# 📘 Week 4 – Practice Scenario Based Questions (Set 1)
+
+## 📅 Day 1 – SBQ on OOPS 3  
+**Date:** 05-Jan-2026  
+
+### Problems Solved:
+- Campus Connect  
+- Swift Cart  
+
+---
+
+## 📅 Day 2 – SBQ on OOPS 4  
+**Date:** 06-Jan-2026  
+
+### Problems Solved:
+- Edu Mentor  
+- Fit Track  
+- Pet Pal  
+- Event Ease  
+
+---
+
+## 📅 Day 3 – SBQ on OOPS 5  
+**Date:** 07-Jan-2026  
+
+### Problems Solved:
+- Book Bazaar  
+- Loan Buddy  
+- Park Ease  
+
+---
+
+## 📅 Day 4 – SBQ on OOPS 6  
+**Date:** 08-Jan-2026  
+
+### Problems Solved:
+- Medistore  
+- Tourmate  
+
+---
+
+## 📅 Day 5 – SBQ on OOPS 7  
+**Date:** 09-Jan-2026  
+
+### Problems Solved:
+- Artify  
+- FoodLoop  
+- SkillForge  
+
+---
+
+🚫 **Day 6 (10-Jan-2026):**  
+No work done on `JAVA-OOPS-PRACTICE` branch.
+
+---
+
+# 📗 Week 5 – Practice Scenario Based Questions (Set 2)
+
+## 📅 Day 1 – SBQ on OOPS 8  
+**Date:** 12-Jan-2026  
+
+### Problems Solved:
+- HomeNest  
+- BudgetWise  
+- Game Box  
+
+---
+
+## 📅 Day 2 – SBQ on OOPS 9  
+**Date:** 13-Jan-2026  
+
+### Problems Solved:
+- PayXpress – Utility Bill Payment System  
+- Bird Sanctuary – Inheritance & Polymorphism  
+
+---
+
+
 
