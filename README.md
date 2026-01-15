@@ -62,3 +62,79 @@ This repository documents my day-wise learning progress in **Data Structures & A
 - Binary Search
 
 ----
+
+## 📅 Day 5 – Algorithm Analysis  
+**Date:** 07-Jan-2026  
+
+### Algorithms Compared:
+- **Fibonacci**
+  - Recursive approach
+  - Iterative approach  
+- **Searching Algorithms**
+  - Linear Search
+  - Binary Search  
+- **Sorting Algorithms**
+  - Bubble Sort
+  - Merge Sort
+  - Quick Sort  
+- **String Operations**
+  - String concatenation using `StringBuffer`
+  - String concatenation using `StringBuilder`
+
+🔗 **Code Link:**  
+👉 *Algorithm Analysis*
+
+---
+
+## 📅 Day 4 & Day 5 – DSA Revision  
+**Date:** 08-Jan-2026 & 09-Jan-2026  
+
+### Concepts Revisited:
+#### Linked List
+- Singly Linked List  
+- Doubly Linked List  
+- Circular Linked List  
+
+#### Stack
+- Push  
+- Pop  
+- Peek  
+
+---
+
+## 📅 Day 6 – Scenario Based Questions (SBQ) – Set 1  
+**Date:** 10-Jan-2026  
+
+### Problems Solved:
+- BookShelf  
+- Browser Buddy  
+- Ambulance Route  
+
+---
+
+# 📗 Week 5 – Scenario Based Question Practice (DSA Focus)
+
+During this week, I focused on **applying DSA concepts to real-world scenarios** to strengthen problem-solving skills.
+
+---
+
+## 📅 Day 1 – Scenario Based Questions (SBQ) – Set 2  
+**Date:** 12-Jan-2026  
+
+### Problems Solved:
+- TrafficManager  
+- CallCenter  
+- TrainCompanion  
+- TextEditor  
+
+---
+
+## 📅 Day 2 – Scenario Based Questions (SBQ) – Set 3  
+**Date:** 13-Jan-2026  
+
+### Problems Solved:
+- ParcelTracker  
+- SmartCheckout  
+- ExamProctor  
+
+---
