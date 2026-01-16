@@ -1,13 +1,8 @@
 package com.sortingalgorithms.bubblesort;
 
-public class HospitalQueue extends Patient{
+public class HospitalQueue{
 	
-	public HospitalQueue(String name, int condition) {
-		super(name, condition);
-	}
-
 	public static void main(String[] args) {
-		
 		
 	Patient p1 = new Patient("Riya" , 10);
 	Patient p2 = new Patient("ashok" , 1);
