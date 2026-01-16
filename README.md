@@ -115,8 +115,6 @@ BridgeLabz-Training
 
 ```
 
-## 🟢 Week 1: Git & Core Java Fundamentals
-
 ### 📅 Day 1 – Git and GitHub Setup  
 **Date:** 15-Dec-2025  
 
@@ -211,7 +209,7 @@ BridgeLabz-Training
 
 ---
 
-## 🟡 Week 2: Object-Oriented Programming
+## 🟡 Week 1: Object-Oriented Programming
 
 ### 📅 Day 1 – Strings Concepts & Problems  
 **Date:** 22-Dec-2025  
@@ -302,7 +300,7 @@ After this day, LeetCode problems are documented under the `core-java-practice` 
 
 ---
 
-## 🔵 Week 3: Data Structure & Algorithm – 1
+## 🔵 Week 2: Data Structure & Algorithm – 1
 
 ### 📅 Day 1 – Core Java Keywords & Inbuilt Functions  
 **Date:** 29-Dec-2025  
@@ -385,7 +383,7 @@ Solved SBQs:
 
 ---
 
-## 🟣 Week 4: Data Structure & Algorithm – 2
+## 🟣 Week 3: Data Structure & Algorithm – 2
 
 ### 📅 Day 1 – Sorting Algorithms & OOPS SBQ  
 **Date:** 05-Jan-2026  
@@ -460,36 +458,7 @@ Solved:
 
 ---
 
-## 🔴 Week 5: SBQs on OOPS & DSA
+## 🔴 Week 4: Java Collections
 
-### 📅 Day 1 – Scenario Based Questions  
-**Date:** 12-Jan-2026  
-
-**java-dsa-practice**
-- TrafficManager  
-- CallCenter  
-- TrainCompanion  
-- TextEditor  
-
-**java-oops-practice**
-- HomeNest  
-- BudgetWise  
-- Game Box  
-
----
-
-### 📅 Day 2 – Scenario Based Questions  
-**Date:** 13-Jan-2026  
-
-**java-dsa-practice**
-- ParcelTracker  
-- SmartCheckout  
-- ExamProctor  
-
-**java-oops-practice**
-- PayXpress  
-- Bird Sanctuary  
-
----
-
-
+### 📅 Day 1 – Java generics and java collection
+**Date:** 15-Jan-2026  
