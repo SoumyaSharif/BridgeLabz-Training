@@ -86,7 +86,7 @@ This repository documents my day-wise learning progress in **Data Structures & A
 
 ---
 
-## 📅 Day 4 & Day 5 – DSA Revision  
+## 📅 Day 4 & 5 – DSA Revision  
 **Date:** 08-Jan-2026 & 09-Jan-2026  
 
 ### Concepts Revisited:
@@ -99,42 +99,4 @@ This repository documents my day-wise learning progress in **Data Structures & A
 - Push  
 - Pop  
 - Peek  
-
----
-
-## 📅 Day 6 – Scenario Based Questions (SBQ) – Set 1  
-**Date:** 10-Jan-2026  
-
-### Problems Solved:
-- BookShelf  
-- Browser Buddy  
-- Ambulance Route  
-
----
-
-# 📗 Week 5 – Scenario Based Question Practice (DSA Focus)
-
-During this week, I focused on **applying DSA concepts to real-world scenarios** to strengthen problem-solving skills.
-
----
-
-## 📅 Day 1 – Scenario Based Questions (SBQ) – Set 2  
-**Date:** 12-Jan-2026  
-
-### Problems Solved:
-- TrafficManager  
-- CallCenter  
-- TrainCompanion  
-- TextEditor  
-
----
-
-## 📅 Day 2 – Scenario Based Questions (SBQ) – Set 3  
-**Date:** 13-Jan-2026  
-
-### Problems Solved:
-- ParcelTracker  
-- SmartCheckout  
-- ExamProctor  
-
 ---
