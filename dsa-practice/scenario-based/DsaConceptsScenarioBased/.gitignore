@@ -12,3 +12,6 @@ scenario-based/dsaconcepts/.settings/
 scenario-based/.gitignore
 scenario-based/dsaconcepts/.gitignore
 /bin/
+
+scenario-based/DsaConceptsScenarioBased/src/com/**/.gitignore
+
