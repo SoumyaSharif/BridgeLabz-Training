@@ -13,3 +13,5 @@ scenario-based/dsaconcepts/.settings/
 # Optional: ignore nested gitignore if not needed
 scenario-based/.gitignore
 scenario-based/dsaconcepts/.gitignore
+
+**/.gitignore
