@@ -171,3 +171,27 @@ This repository contains **real-world, scenario-based Java applications** develo
 - SmartLibrary  
 
 ---
+
+# 📌 Week 6: Scenario-Based Applications – Part 2
+
+## 🗓️ Day 1 – Sorting Algorithms (Scenario-Based Set 4)  
+**📅 Date:** January 19, 2026  
+
+### 📦 Sorting in Real Scenarios
+**🔗 Code Projects:**
+- EduResults  
+- FlashDealz  
+- FitnessTracker  
+
+---
+
+## 🗓️ Day 2 – Sorting Algorithms (Scenario-Based Set 5)  
+**📅 Date:** January 20, 2026  
+
+### 📦 Sorting in Real Scenarios
+**🔗 Code Projects:**
+- Movie Time  
+- Food Fest  
+- Gamer Zone  
+
+---
