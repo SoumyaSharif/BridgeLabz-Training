@@ -1,0 +1,17 @@
+/.metadata/
+
+/.metadata/
+
+# Java
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build folders
+bin/
+target/
+out/
+
