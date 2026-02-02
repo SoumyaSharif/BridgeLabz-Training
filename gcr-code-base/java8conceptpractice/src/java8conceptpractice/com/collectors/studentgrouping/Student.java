@@ -1,4 +1,4 @@
-package java8conceptpractice.com.collectors.studentgrouping;
+package com.collectors.studentgrouping;
 
 public class Student {
     private String name;

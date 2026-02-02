@@ -1,4 +1,4 @@
-package java8conceptpractice.com.collectors.wordfrequency;
+package com.collectors.wordfrequency;
 
 import java.util.Arrays;
 import java.util.Map;

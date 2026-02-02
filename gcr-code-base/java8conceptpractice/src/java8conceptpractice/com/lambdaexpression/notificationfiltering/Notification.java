@@ -1,4 +1,4 @@
-package java8conceptpractice.com.lambdaexpression.notificationfiltering;
+package com.lambdaexpression.notificationfiltering;
 public class Notification {
     private String type;
     private String message;

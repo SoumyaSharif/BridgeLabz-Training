@@ -1,5 +1,5 @@
 
-package java8conceptpractice.com.collectors.bookstats;
+package com.collectors.bookstats;
 
 import java.util.ArrayList;
 import java.util.List;

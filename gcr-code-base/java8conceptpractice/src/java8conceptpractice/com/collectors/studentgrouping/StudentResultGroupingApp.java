@@ -1,4 +1,4 @@
-package java8conceptpractice.com.collectors.studentgrouping;
+package com.collectors.studentgrouping;
 
 import java.util.ArrayList;
 import java.util.List;

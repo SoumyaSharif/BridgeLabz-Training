@@ -1,4 +1,4 @@
-package java8conceptpractice.com.collectors.employeesalary;
+package com.collectors.employeesalary;
 
 public class Employee {
     private String name;

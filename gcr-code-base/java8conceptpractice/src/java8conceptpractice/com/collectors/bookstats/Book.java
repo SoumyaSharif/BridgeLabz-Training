@@ -1,4 +1,4 @@
-package java8conceptpractice.com.collectors.bookstats;
+package com.collectors.bookstats;
 
 public class Book {
     private String title;

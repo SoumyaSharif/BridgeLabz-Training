@@ -1,4 +1,4 @@
-package java8conceptpractice.com.lambdaexpression.notificationfiltering;
+package com.lambdaexpression.notificationfiltering;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;

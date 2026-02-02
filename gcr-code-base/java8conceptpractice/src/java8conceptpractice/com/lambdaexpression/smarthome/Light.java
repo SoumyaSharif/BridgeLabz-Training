@@ -1,4 +1,4 @@
-package java8conceptpractice.com.lambdaexpression.smarthome;
+package com.lambdaexpression.smarthome;
 
 @FunctionalInterface
 public interface Light {

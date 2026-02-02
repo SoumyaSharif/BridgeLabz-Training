@@ -1,4 +1,4 @@
-package java8conceptpractice.com.lambdaexpression.ecommerce;
+package com.lambdaexpression.ecommerce;
 
 public class Product {
 	String name ; 

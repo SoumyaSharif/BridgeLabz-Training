@@ -1,4 +1,4 @@
-package java8conceptpractice.com.collectors.employeesalary;
+package com.collectors.employeesalary;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package java8conceptpractice.com.lambdaexpression.smarthome;
+package com.lambdaexpression.smarthome;
 
 public class SmartHomeDemo {
 	public static void main(String[] args) {
