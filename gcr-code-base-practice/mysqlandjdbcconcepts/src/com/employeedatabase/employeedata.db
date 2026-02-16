@@ -1,0 +1,150 @@
+-- =====================================================
+-- EMPLOYEE MANAGEMENT SYSTEM (WITH COMMENTED OUTPUT)
+-- =====================================================
+
+-- STEP 1: Create Database
+CREATE DATABASE IF NOT EXISTS employee_db;
+USE employee_db;
+
+-- Verify Database
+SHOW DATABASES;
+
+-- Expected Output:
+-- +--------------------+
+-- | Database           |
+-- +--------------------+
+-- | employee_db        |
+-- | information_schema |
+-- | mysql              |
+-- | performance_schema |
+-- | sys                |
+-- +--------------------+
+
+
+-- =====================================================
+-- STEP 2: Create Employees Table
+-- =====================================================
+
+CREATE TABLE employees (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) UNIQUE,
+    department VARCHAR(50),
+    salary DECIMAL(10,2),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+DESC employees;
+
+-- Expected Output:
+-- +------------+---------------+------+-----+-------------------+-------------------+
+-- | Field      | Type          | Null | Key | Default           | Extra             |
+-- +------------+---------------+------+-----+-------------------+-------------------+
+-- | id         | int           | NO   | PRI | NULL              | auto_increment    |
+-- | name       | varchar(100)  | NO   |     | NULL              |                   |
+-- | email      | varchar(100)  | YES  | UNI | NULL              |                   |
+-- | department | varchar(50)   | YES  |     | NULL              |                   |
+-- | salary     | decimal(10,2) | YES  |     | NULL              |                   |
+-- | created_at | timestamp     | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
+-- +------------+---------------+------+-----+-------------------+-------------------+
+
+
+-- =====================================================
+-- STEP 3: Check Empty Table
+-- =====================================================
+
+SELECT * FROM employees;
+
+-- Expected Output:
+-- Empty set
+
+
+-- =====================================================
+-- STEP 4: Insert Employee Records
+-- =====================================================
+
+INSERT INTO employees (name, email, department, salary)
+VALUES 
+('Rahul Sharma', 'rahul@gmail.com', 'Engineering', 55000),
+('Ananya Verma', 'ananya@gmail.com', 'HR', 45000);
+
+SELECT * FROM employees;
+
+-- Expected Output:
+-- +----+--------------+------------------+-------------+----------+---------------------+
+-- | id | name         | email            | department  | salary   | created_at          |
+-- +----+--------------+------------------+-------------+----------+---------------------+
+-- | 1  | Rahul Sharma | rahul@gmail.com  | Engineering | 55000.00 | (auto timestamp)    |
+-- | 2  | Ananya Verma | ananya@gmail.com | HR          | 45000.00 | (auto timestamp)    |
+-- +----+--------------+------------------+-------------+----------+---------------------+
+
+
+-- =====================================================
+-- STEP 5: Search Employee by Name
+-- =====================================================
+
+SELECT * FROM employees
+WHERE name LIKE '%Rahul%';
+
+-- Expected Output:
+-- Returns only Rahul Sharma
+
+
+-- =====================================================
+-- STEP 6: View Selected Columns
+-- =====================================================
+
+SELECT id, name, salary FROM employees;
+
+-- Expected Output:
+-- +----+--------------+----------+
+-- | id | name         | salary   |
+-- +----+--------------+----------+
+-- | 1  | Rahul Sharma | 55000.00 |
+-- | 2  | Ananya Verma | 45000.00 |
+-- +----+--------------+----------+
+
+
+-- =====================================================
+-- STEP 7: Update Employee Salary
+-- =====================================================
+
+UPDATE employees
+SET salary = 60000
+WHERE id = 2;
+
+SELECT * FROM employees WHERE id = 2;
+
+-- Expected Output:
+-- +----+--------------+------------------+------------+----------+---------------------+
+-- | id | name         | email            | department | salary   | created_at          |
+-- +----+--------------+------------------+------------+----------+---------------------+
+-- | 2  | Ananya Verma | ananya@gmail.com | HR         | 60000.00 | (timestamp)         |
+-- +----+--------------+------------------+------------+----------+---------------------+
+
+
+-- =====================================================
+-- STEP 8: Delete Employee
+-- =====================================================
+
+DELETE FROM employees
+WHERE id = 2;
+
+SELECT * FROM employees;
+
+-- Expected Output:
+-- +----+--------------+-----------------+-------------+----------+---------------------+
+-- | id | name         | email           | department  | salary   | created_at          |
+-- +----+--------------+-----------------+-------------+----------+---------------------+
+-- | 1  | Rahul Sharma | rahul@gmail.com | Engineering | 55000.00 | (timestamp)         |
+-- +----+--------------+-----------------+-------------+----------+---------------------+
+
+
+-- =====================================================
+-- FINAL STATE CHECK
+-- =====================================================
+
+SELECT * FROM employees;
+
+-- System now contains only one employee.
+-- =====================================================
