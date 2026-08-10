@@ -1,4 +1,4 @@
-package day2.classproblems.circularqueue;
+package week1.day2.classproblems.circularqueue;
 
 public class CircularQueue {
 
