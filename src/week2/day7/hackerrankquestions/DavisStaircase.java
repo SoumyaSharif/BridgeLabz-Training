@@ -1,6 +1,8 @@
 package week2.day7.hackerrankquestions;
 
 public class DavisStaircase {
+    //why memoisation?
+
     static long[] memo;
 
     public static int stepPerms(int n) {
