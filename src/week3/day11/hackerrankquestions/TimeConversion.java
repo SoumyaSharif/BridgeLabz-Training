@@ -1,4 +1,4 @@
-package week2.day11.hackerrankquestions;
+package week3.day11.hackerrankquestions;
 
 public class TimeConversion {
 

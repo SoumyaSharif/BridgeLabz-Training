@@ -3,7 +3,7 @@ import java.util.*;
 
 public class ValidParanthesis {
 
-    public static void main(String[] args) {
+    public static boolean main(String[] args) {
         String str = "{}" ;
         Stack<Character> stack = new Stack<>();
         for (char c : str.toCharArray()) {

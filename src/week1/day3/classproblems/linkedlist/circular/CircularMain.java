@@ -1,8 +1,8 @@
-package day3.classproblems.linkedlist.circular;
+package week1.day3.classproblems.linkedlist.circular;
 
 public class CircularMain {
 	public static void main(String[] args) {
-		CircularLinkedList list = new CircularLinkedList();
+		day3.classproblems.linkedlist.circular.CircularLinkedList list = new day3.classproblems.linkedlist.circular.CircularLinkedList();
 
 		// Insertions
 		list.insertFirst(30);

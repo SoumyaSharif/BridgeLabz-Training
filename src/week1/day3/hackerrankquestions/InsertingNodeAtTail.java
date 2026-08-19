@@ -1,4 +1,4 @@
-package day3.hackerrankproblems.linkedlist;
+package week1.day3.hackerrankquestions;
 
 import java.util.Scanner;
 
@@ -11,11 +11,11 @@ public class InsertingNodeAtTail {
         }
 
         Node temp = head;
-        while (temp.next != null) {
-            temp = temp.next;
+        while (temp.left != null) {
+            temp = temp.left;
         }
 
-        temp.next = node;
+        temp.left = node;
         return head;
     }
 

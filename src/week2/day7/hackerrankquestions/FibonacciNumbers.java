@@ -1,5 +1,7 @@
 package week2.day7.hackerrankquestions;
 
+import java.util.Scanner;
+
 public class FibonacciNumbers {
 
 

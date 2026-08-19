@@ -1,4 +1,5 @@
 package week2.day7.hackerrankquestions;
+import java.util.Arrays;
 
 public class DavisStaircase {
     //why memoisation?
